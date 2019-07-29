@@ -1,4 +1,4 @@
-# MH-Messenger
+# HappyHelp (Mental Health Help-Messenger)
 
 A messenger chat app for Mental Health Doctors to connect with their patients.
 
